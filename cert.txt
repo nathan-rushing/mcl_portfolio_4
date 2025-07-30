@@ -1,0 +1,90 @@
+
+        <!-- Certificates and Recognitions Section-->
+        <section class="page-section tech-icon" id="contact">
+            <div class="container">
+                <!-- Certificates and Recognitions Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Certificates and Recognitions</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Certificates and Recognitions Info Box -->
+
+                <div class="container pt-5 mt-4">
+                    <!-- School Recognition -->
+                    <div class="achievement-section">
+                    <!-- <h4>🏅 School Recognition</h4> -->
+                    <h4>School Recognition</h4>
+
+                    <h5 class="mt-3">Dean's Lister</h5>
+                    <ul class="achievement-list">
+                        <li>A.Y. 2021-2022 1st Term Dean's Lister</li>
+                        <li>A.Y. 2021-2022 2nd Term Dean's Lister</li>
+                        <li>A.Y. 2022-2023 1st Term Dean's Lister</li>
+                        <li>A.Y. 2022-2023 2nd Term Dean's Lister</li>
+                        <li>A.Y. 2022-2023 3rd Term Dean's Lister</li>
+                        <li>A.Y. 2023-2024 1st Term Dean's Lister</li>
+                        <li>A.Y. 2023-2024 2nd Term Dean's Lister</li>
+                        <li>A.Y. 2023-2024 3rd Term Dean's Lister</li>
+                    </ul>
+                    </div>
+
+                    <!-- Organization -->
+                    <div class="achievement-section mt-5">
+                    <!-- <h4>👥 Organization</h4> -->
+                    <h4>Organization</h4>
+                    <ul class="achievement-list">
+                        <li>Junior Philippine Computer Society (JPCS) - Member</li>
+                    </ul>
+                    </div>
+
+                    <!-- Other Certifications -->
+                    <div class="achievement-section mt-5">
+                    <!-- <h4>📜 Other Certifications</h4> -->
+                    <h4>Other Certifications</h4>
+                    <ul class="achievement-list">
+                        <li>Wadhwani: Employability Skills – JobReady</li>
+                        <li>Wadhwani: Online Communication & Data Security (US English)</li>
+                        <li>Wadhwani: Start-up Mindset (US English)</li>
+                        <li>Wadhwani: Financial Literacy (US English)</li>
+                        <li>Wadhwani: Work Productivity Tools (US English)</li>
+                        <li>Wadhwani: Customer Centricity (US English)</li>
+                        <li>Wadhwani: Professionalism (US English)</li>
+                        <li>Wadhwani: Problem Solving & Innovation (US English)</li>
+                        <li>Wadhwani: Interpersonal Skills (US English)</li>
+                        <li>Wadhwani: Self-Management (US English)</li>
+                        <li>Wadhwani: Impactful Writing Skills (US English)</li>
+                        <li>Wadhwani: Effective Speaking and Listening Skills (US English)</li>
+                        <li>TOEIC Certificate: Princeton Assessments and Trainings</li>
+                        <li>Coursera: Django for Everybody</li>
+                        <li>Coursera: Using JavaScript and JSON in Django</li>
+                        <li>Coursera: Django Features and Libraries</li>
+                        <li>Coursera: Web Application Technologies and Django</li>
+                        <li>Coursera: Building Web Applications in Django</li>
+                        <li>Coursera: Data Analytics Essentials</li>
+                        <li>Microsoft: Preparing Data for Analysis with Microsoft Excel</li>
+                        <li>Datacamp: Data Analyst with Python</li>
+                        <li>Datacamp: Joining Data with pandas</li>
+                        <li>Datacamp: Joining Data in SQL</li>
+                        <li>Datacamp: Introduction to Python</li>
+                        <li>Datacamp: Introduction to Data Visualization with Seaborn</li>
+                        <li>Datacamp: Intermediate SQL</li>
+                        <li>Datacamp: Intermediate Python</li>
+                        <li>Datacamp: Hypothesis Testing in Python</li>
+                        <li>Datacamp: Exploratory Data Analysis in Python</li>
+                        <li>Datacamp: Excel Fundamentals</li>
+                        <li>Datacamp: Data Manipulation with Pandas</li>
+                        <li>Datacamp: Data Manipulation in SQL</li>
+                        <li>Datacamp: Introduction to SQL</li>
+                        <li>Datacamp: Data Visualization in Excel</li>
+                        <li>Datacamp: Data Preparation in Excel</li>
+                        <li>Datacamp: Data Analysis in Excel</li>
+                        <li>Datacamp: Introduction to Excel</li>
+                        <li>Datacamp: Introduction to Tableau</li>
+                    </ul>
+                    </div>
+                    <hr>
+            </div>
+        </section>
