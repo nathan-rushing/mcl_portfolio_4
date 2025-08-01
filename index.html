@@ -149,6 +149,16 @@
             border-left: 5px solid #36b9cc !important;
             }
 
+            .cert-link {
+                color: inherit;
+                text-decoration: none;
+                transition: color 0.2s;
+            }
+            .cert-link:hover {
+                color: #0d6efd; /* Bootstrap primary blue */
+                text-decoration: underline;
+            }
+
             /* very dark gray #121212 */
             /* electric blue #00BFFF or #1E90FF */
             /* indigo #6610f2 */
@@ -524,9 +534,13 @@
                     <h4 class="card-title"><i class="fas fa-certificate me-2 text-info"></i>Other Certifications</h4>
                     <div class="cert-scroll mt-3">
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item">Wadhwani: Employability Skills - JobReady</li>
+                        <li class="list-group-item">
+                            <a href="https://web.certificate.wfglobal.org/en/certificate?certificateId=682b0717bff6ce8d043dcee1" class="cert-link">Wadhwani: Employability Skills - JobReady</a>
+                        </li>
                         <li class="list-group-item">TOEIC Certificate: Princeton Assessments and Trainings</li>
-                        <li class="list-group-item">Coursera: Django for Everybody</li>
+                        <li class="list-group-item">
+                            <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GB3L6VO9QNYN" class="cert-link">Coursera: Django for Everybody</a>
+                        </li>
                         <!-- Add more items here -->
                     </ul>
                     </div>
